@@ -166,3 +166,15 @@ table {
   margin-left: auto;
   margin-right: auto;
 }
+
+.contact {
+  position: fixed;
+  bottom: 0;
+  left:0;
+  color: black;
+  background-color: skyblue;
+  padding-left: 10px;
+  margin-bottom: 0;
+  padding-right: 100%;
+  white-space: nowrap;
+}
